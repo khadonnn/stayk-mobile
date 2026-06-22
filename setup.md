@@ -1,6 +1,7 @@
 <!-- https://www.nativewind.dev/docs/getting-started/installation -->
 
 npx expo start
+npx expo start --clear
 npm install nativewind react-native-reanimated react-native-safe-area-context
 npm install --dev tailwindcss@^3.4.17 prettier-plugin-tailwindcss@^0.5.11 babel-preset-expo
 
